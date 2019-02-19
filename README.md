@@ -1,5 +1,6 @@
 # clj-asteroids-hosting
 
+[Source Repo](https://github.com/joncampbelldev/clj-asteroids)
 [Play Now!](https://joncampbelldev.github.io/clj-asteroids-hosting)
 
 ### Global controls
