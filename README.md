@@ -1,6 +1,6 @@
 # clj-asteroids-hosting
 
-[https://joncampbelldev.github.io/clj-asteroids-hosting](Play Now!)
+[Play Now!](https://joncampbelldev.github.io/clj-asteroids-hosting)
 
 ### Global controls
 * Reverse time - R
